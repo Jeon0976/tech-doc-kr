@@ -1,0 +1,13 @@
+{
+  "name": "tech-doc-kr",
+  "version": "1.0.0",
+  "description": "한국어 기술 문서 교정 스킬 - 영어 관용구 직역 탐지/교체, 개념어 영어 유지, 역할 별명 대신 코드 실명, 비키보드 특수문자 제거, 문답 프레임 해체, 기계 검증. 실제 문서 교정에서 독자 피드백으로 검증된 규칙 기반.",
+  "author": {
+    "name": "Jeon0976"
+  },
+  "homepage": "https://github.com/Jeon0976/tech-doc-kr",
+  "repository": "https://github.com/Jeon0976/tech-doc-kr",
+  "license": "MIT",
+  "keywords": ["korean", "tech-writing", "translationese", "documentation", "번역투", "기술문서", "교정"],
+  "skills": ["./.claude/skills/"]
+}

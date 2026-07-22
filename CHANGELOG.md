@@ -1,0 +1,14 @@
+# Changelog
+
+## 1.0.0 (2026-07-22)
+
+첫 배포.
+
+- 6대 규칙 (rules.md): 직역 관용구 금지 / 개념어 영어 유지 / 코드 실명 / 형식 / 구조 / 검증 루프
+- 직역 관용구 블랙리스트 약 40항목 + 유지 목록 (calque-blacklist.md, SSOT)
+- 특수문자 치환표 + 실코드 인용 보존 규칙 (special-chars.md)
+- 파이프라인 모드: tell-detector / doc-rewriter / doc-verifier 에이전트 3종
+- 경량 모드: 오케스트레이터 단독 수행
+- 기계 검증기 scripts/verify.py (표준 라이브러리만)
+
+규칙 출처: 레포 구현 노트 10편 + README + 블로그 초안 교정에서 실제 독자 피드백으로 검증된 항목만 수록.
