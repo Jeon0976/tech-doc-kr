@@ -15,7 +15,7 @@
 | 고아 (Task/프로세스 외 문맥) | orphan | orphan process는 OS 용어지만 일반 문맥 직역은 어색 | 아무에게도 묶이지 않은, 방치된 |
 | 하중을 받는 (부품) | load-bearing | 건축 은유 직역 | 핵심은 ~다 |
 | 움직이는 과녁 | moving target | 사냥 은유 직역 | ~에 따라 바뀐다 |
-| 강등/승격 (개념의) | demoted/promoted | 인사 용어를 개념에 적용한 직역 | "필수"에서 "선택"이 됐다, 강참조로 잡혔다 |
+| 강등/승격/승급 (개념의) | demoted/promoted/upgraded | 인사 용어를 개념에 적용한 직역 (예: "UserDefaults에서의 승급") | "필수"에서 "선택"이 됐다, 강참조로 잡혔다, Keychain으로 바꿨다 |
 | 공짜(로 얻는다/주는) | for free | 긍정문에서 어색 (부정형 "공짜가 아니다"는 자연스러움) | 자동으로, 추가 코드 없이 |
 | 1급 (API/시민) | first-class | 직역 어색 | 정식 API |
 | 물리 법칙 (제약의 비유) | laws of physics | 과장 직역 | OS 제약, 플랫폼 제약 |

@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "한국어 기술 문서(PR/README/docs/블로그)의 번역투와 기계 생성 신호를 걷어내는 tech-doc-kr 스킬 마켓플레이스",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "pluginRoot": "."
   },
   "plugins": [
@@ -13,7 +13,7 @@
       "name": "tech-doc-kr",
       "source": "./",
       "description": "한국어 기술 문서 교정 스킬 - 직역 관용구 탐지/교체, 개념어 영어 유지, 코드 실명, 특수문자/형식/구조 정리 + 기계 검증. 파이프라인(탐지/교정/검증 에이전트) 기본, 경량 모드 선택.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "keywords": ["korean", "tech-writing", "translationese", "documentation", "번역투", "기술문서", "교정"]
     }
   ]
