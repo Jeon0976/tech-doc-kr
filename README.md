@@ -51,13 +51,6 @@ claude
 - 코드블록/표/링크 보존. 레포 실코드 인용은 특수문자까지 소스와 일치 유지
 - 문체(반말/존댓말) 유지
 
-## humanize-korean과의 관계
-
-- [humanize-korean](https://github.com/epoko77-ai/im-not-ai): 문체/리듬 일반 윤문 (블로그, 칼럼)
-- **tech-doc-kr**: 기술 문서 특화 - 용어/형식/구조/코드 정합
-
-블로그 글이면 humanize-korean을 먼저 돌리고 tech-doc-kr로 용어/형식을 잡는 2단 구성을 권한다.
-
 ## 검증 스크립트 단독 사용
 
 ```bash
